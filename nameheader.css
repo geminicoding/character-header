@@ -1,8 +1,8 @@
-.imselfish { width: 380px; padding: 20px; border: 1px solid #f0f0f0; background-color: #fff; margin: auto; }
+.imselfish { width: 480px; padding: 20px; border: 1px solid #f0f0f0; background-color: #fff; margin: auto; }
 .iknowbut { width: 480px; padding: 20px; background-color: #f4f4f4; border: 1px solid #f0f0f0; margin: auto; border-top: 0; }
-.wanttosee { width: 95px; height: 95px; border-radius: 100%; border: 5px solid #999; border-top: 5px solid transparent; border-bottom: 5px solid transparent; transform: rotate(70deg); padding: 5px; }
-.wanttosee-i { width: 95px; height: 95px; transform: rotate(-70deg); border-radius: 100%; background-size: cover; background-position: center; -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); filter: grayscale(100%); }
-.idontever { width: 370px; margin-left: 10px; text-align: right; font-family: 'Montserrat', sans-serif; font-weight: 900; text-transform: lowercase; font-size: 30px; letter-spacing: -2px; line-height: 100%; color: #999; text-shadow: 1px 1px 5px #f0f0f0; }
+.wanttosee { width: 80px; height: 80px; border-radius: 100%; border: 5px solid #999; border-top: 5px solid transparent; border-bottom: 5px solid transparent; transform: rotate(70deg); padding: 5px; }
+.wanttosee-i { width: 80px; height: 80px; transform: rotate(-70deg); border-radius: 100%; background-size: cover; background-position: center; -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); filter: grayscale(100%); }
+.idontever { width: 390px; margin-left: 10px; text-align: right; font-family: 'Montserrat', sans-serif; font-weight: 900; text-transform: lowercase; font-size: 30px; letter-spacing: -2px; line-height: 100%; color: #999; text-shadow: 1px 1px 5px #f0f0f0; }
 .idontever woman { display: block; text-shadow: 0px 0px 0px #878787; font-size: 9px; text-transform: uppercase; letter-spacing: 2px; font-weight: 100; line-height: 100%; }
 .youwithhim { width: 468px; padding: 5px; border: 1px solid #f0f0f0; }
 .youwithhim img { width: 368px; }
